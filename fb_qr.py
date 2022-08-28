@@ -42,3 +42,12 @@ for i in range(1,9+1):
 fb_id = "https://www.facebook.com/nischal.khatiwada.773"
 #import png
 qrcode.make(fb_id).save("fbook.png")'''
+
+
+
+'''import qrcode
+import png
+
+fb_id = "https://www.facebook.com/profile.php?id=100008616497649"
+
+qrcode.make(fb_id).save("sojana.png")'''
