@@ -1,4 +1,4 @@
-'''brand_name = input("enter which brand your laptop is:-")
+brand_name = input("enter which brand your laptop is:-")
 model_name = input("enter model of your laptop:-")
 price = input("enter at which price your laptop is aavailable at:-")
 
@@ -6,13 +6,13 @@ def detail():
     print(brand_name, model_name, price)
 
 
-detail()'''
+detail()
 
 
 
 #string formation
 
-'''brand = input("enter which brand your laptop is:-")
+brand = input("enter which brand your laptop is:-")
 model = input("enter model of your laptop:-")
 price = input("enter at which price your laptop is aavailable at:-")
 
@@ -20,13 +20,13 @@ def detail(brand,model,price) :
     print(f"{brand} {model} @ rs{price}")
 
 laptop_detail = detail(brand ,model ,price)
-print(laptop_detail)'''
+print(laptop_detail)
 
 
 
 #working process of atm
 
-'''total_price = 0
+total_price = 0
 card_type = "visa"
 is_same_bank = True
 is_expired=False
@@ -65,12 +65,12 @@ input()
 print("Card inserted!!")
 required_amt = int(input("Please enter a amount:"))
 read_card()
-'''
+
 
 #days = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
 
-'''for i in range(0,10,3):
-    if i % 2 == 0:'''
+for i in range(0,10,3):
+    if i % 2 == 0:
 
 #print(days.index('tuesday'))
 
