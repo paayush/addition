@@ -1,10 +1,10 @@
-'''a = int(input("enter a number:-"))
+a = int(input("enter a number:-"))
 b = int(input("enter second number:-"))
 def add_number():
     sum = a+b
     print(sum)
 
-add_number()'''
+add_number()
 
 
 def add(num1,num2):
