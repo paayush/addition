@@ -1,7 +1,7 @@
 a = int(input("enter a number:-"))
 b = int(input("enter second number:-"))
 def add_number():
-    sum = a+b
+    sum = a+b #sum of two numbers 
     print(sum)
 
 add_number()
